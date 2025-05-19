@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20to%20github&fontSize=90)
 <div align="center" style="background-color: #000;">
-  <h1 style="color: #f5a9f2; text-shadow: 3px 3px 0px #8a2be2;">
-    Welcome to<br>
-    Github
-  </h1>
+  
 
   <h2>✨ Tech Stack ✨</h2>
   <div>
