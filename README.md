@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  
     <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </div>
   <div>
