@@ -24,8 +24,8 @@
     </a>
   </div>
 </div>
-<div align="center">
+<!-- <div align="center">
 
 ![준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hwan00&layout=compact&theme=tokyonight)
-</div> 
+</div>  -->
