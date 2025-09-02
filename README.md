@@ -27,6 +27,6 @@
 </div>
 <div align="center">
 <!-- ![준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=dark) -->
-[준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<!-- [준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-</div>
+</div> -->
