@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20to%20github&fontSize=90)
-<div align="center" style="background-color: #000;">
-    
+
   <h2>📚 Tech Stack 📚</h2>
   <div>
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,7 +25,7 @@
   </div>
 </div>
 <div align="center">
-<!-- ![준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=dark) -->
-<!-- [준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-</div> -->
+
+![준환's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-hwan00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hwan00&layout=compact&theme=tokyonight)
+</div> 
